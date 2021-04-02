@@ -27,7 +27,7 @@
     height: 500px;
     border: 3px solid #fff;
   }
-  article {
+  article, audio, video {
     text-align: justify;
     margin-right: 175px;
     background: #4682B4;
@@ -83,6 +83,10 @@
 <p>Обычно современную эпоху определяют как 25 предшествующих настоящему моменту лет. Однако существуют некоторые технические аспекты и концепции дизайна, которые отличают современные автомобили от старых. Не рассматривая будущее автомобиля, современная эра стала эрой растущей стандартизации, общих платформ и компьютерного дизайна.</p>
 </article>
 </section>
+<video width="500" height="300" controls src="C:\Users\1255954\Desktop\Ice - 21.mp4"  poster="C:\Users\1255954\Desktop\bRdJpJXzzMA.jpg">
+</video>
+<audio controls  src="C:\Users\1255954\Desktop\Rakhim_-_Sinijj_Lamborghini_72834641.mp3" >
+</audio>
 <footer>Галенков В.С.</footer>
 </body>
 </html>
